@@ -4,7 +4,7 @@
   "description": "A basic chat app",
   "main": "./server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha \"./test/**/*.spec.js\""
   },
   "author": "Dylan Steele",
   "license": "MIT",
@@ -13,6 +13,9 @@
     "socket.io": "^2.2.0"
   },
   "devDependencies": {
-    "nodemon": "^1.18.9"
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "nodemon": "^1.18.9",
+    "sinon": "^7.2.3"
   }
 }
