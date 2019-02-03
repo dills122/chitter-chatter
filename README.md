@@ -12,5 +12,5 @@ This app was built following the tutorial series linked below. This gives a good
 
 ## Built With
 
-[Socket.io](https://github.com/socketio/socket.io)
-[Express](https://github.com/expressjs/express)
+* [Socket.io](https://github.com/socketio/socket.io)
+* [Express](https://github.com/expressjs/express)
