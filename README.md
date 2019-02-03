@@ -1,4 +1,7 @@
 # chitter-chatter
+
+[![Build Status](https://travis-ci.org/dills122/chitter-chatter.svg?branch=master)](https://travis-ci.org/dills122/chitter-chatter)
+
 A basic chat app using socket.io
 
 ![App View](src/public/app-look.png)
