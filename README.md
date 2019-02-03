@@ -1,10 +1,6 @@
 # chitter-chatter
 A basic chat app using socket.io
 
-<p align="center">
-  <img width="350" height="350" src="./src/public/img/app-look.png" alt="">
-</p>
-
 ![App View](src/public/app-look.png)
 
 This app was built following the tutorial series linked below. This gives a good introduction into socket.io.
